@@ -1,6 +1,6 @@
 # PHYS220 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Kristen Peet
 
 ## Specification
 
